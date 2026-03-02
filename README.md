@@ -1,4 +1,4 @@
-Title: Employee Attrition Analytics (HR / People Analytics)
+Title: Employee Attrition Analytics (HR / People Analytics) <br>
 **Overview**
 
 In this project, I dug into the IBM HR dataset to figure out why employees leave and to predict who’s likely to go next. I used a mix of data exploration, statistical tests, and logistic regression. I pulled all this together in Power BI dashboards, so HR teams get clear, usable insights they can actually act on.
