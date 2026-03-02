@@ -1,4 +1,4 @@
-# Title: Employee Attrition Analytics (HR / People Analytics) <br>
+# Employee Attrition Analytics (HR / People Analytics) <br>
 
 **Overview**
 
